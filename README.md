@@ -85,3 +85,4 @@ git push
 
 ![Клонировать репозиторий по SSH-URL](screenshots/4.png)
 
+![Создание коммита и пуш](screenshots/5.png)
